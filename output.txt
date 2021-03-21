@@ -1,0 +1,18 @@
+count    1000.00000
+mean       66.08900
+std        15.16308
+min         0.00000
+25%        57.00000
+50%        66.00000
+75%        77.00000
+max       100.00000
+Name: math score, dtype: float64
+var: 229.91899799799796
+data range: 100.0
+var coef: 22.943424920954246%
+IQR: 20.0
+Q10: 47.0
+Q90: 86.0
+skewness: -0.27893514909431694
+kurtosis: 0.27496405752108455
+Shapiro-Wilk test: ShapiroResult(statistic=0.9931508302688599, pvalue=0.0001453401637263596)
